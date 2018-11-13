@@ -5,7 +5,6 @@ class CreateGames < ActiveRecord::Migration[5.2]
       t.integer :time
       t.integer :errors
       t.integer :level
-
       t.timestamps
     end
   end
