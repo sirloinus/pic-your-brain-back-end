@@ -1,24 +1,10 @@
-# README
+# Pic Your Brain
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A timed game to test and train your visual memory.
 
-Things you may want to cover:
+- Back-end and API made with Ruby on Rails.
+- Entire front-end built on pure, vanilla Javascript (https://github.com/sirloinus/pic-your-brain-front-end/tree/master).
 
-* Ruby version
+Demo-link: https://www.youtube.com/watch?v=kLGUmhnebMI
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
